@@ -3,7 +3,8 @@
 require_once(__DIR__ . "/config.php");
 require_once(__DIR__ . "/util/Http.php");
 require_once(__DIR__ . "/api/Auth.php");
-$corpId =  $_GET['corpid'];
+//$corpId =  $_GET['corpid'];
+$corpId =  "ding5f9bd33aad975023";
 ?>
 <html>
 <head>
